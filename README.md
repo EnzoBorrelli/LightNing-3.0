@@ -1,6 +1,6 @@
 # LightNing 3.0
 
-This is the 3rd version of my esp32 + Dualshock4® Rc car
+This is the 3rd version of my esp32 + Dualshock4® Rc car, it has the pc made entirely out of smd pieces
 
 ## Installation
 
